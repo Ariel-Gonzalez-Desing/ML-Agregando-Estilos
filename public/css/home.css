@@ -26,10 +26,9 @@ main section.main-box article {
     background-color: white;
     margin-bottom:10px;
 
-}
+} 
 
 main section div.price-discount{
-    
     display: flex;
     width: 100%;
 
